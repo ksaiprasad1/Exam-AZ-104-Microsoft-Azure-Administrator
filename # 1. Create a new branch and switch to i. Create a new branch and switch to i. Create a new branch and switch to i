@@ -1,0 +1,9 @@
+# 1. Create a new branch and switch to it
+git checkout -b Implement-and-manage_storage
+
+# 2. Make your changes and commit them
+git add .
+git commit -m "Your commit message"
+
+# 3. Push the branch to GitHub
+git push -u origin <your-branch-name>
